@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+cv.aux
+cv.log
+cv.out
